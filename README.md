@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zahra-bouguerri
 - USTHB Student
 - 👀 I’m interested in fullstack
-- 🌱 I’m currently learning javaScript,php
+- 🌱 I’m currently learning javaScript,php,laravel...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bouguerrifatmazohra@gmail.com
 
