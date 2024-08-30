@@ -4,6 +4,7 @@
 🌱 **Currently diving deep into:**  
 &nbsp;&nbsp;&nbsp;&nbsp;• **JavaScript**  
 &nbsp;&nbsp;&nbsp;&nbsp;• **PHP**  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Laravel**
 💡 **Looking to collaborate on exciting projects!**  
 📫 **Reach out to me:** bouguerrifatmazohra@gmail.com  
 
