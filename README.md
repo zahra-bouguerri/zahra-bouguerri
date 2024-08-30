@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @zahra-bouguerri
-- USTHB Student
-- 👀 I’m interested in fullstack
-- 🌱 I’m currently learning javaScript,php,laravel...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bouguerrifatmazohra@gmail.com
+👋 Hi there! I'm Zahra Bouguerri.
+🎓 USTHB Student
+👀 Passionate about Fullstack Development
+🌱 Currently diving deep into:
+    • JavaScript
+    • PHP
+💡 Looking to collaborate on exciting projects!
+📫 Reach out to me: bouguerrifatmazohra@gmail.com
 
 <!---
 zahra-bouguerri/zahra-bouguerri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
